@@ -47,3 +47,8 @@ FROM TERMINAL
 ### Hints and Hurdles
 + If you have a personal experience with a bug that you battled against over many sleepless nights that could have been avoided with testing or TDD, share that with the students. They like to hear about real life programming experiences.
 + It's also helpful to explain the RSpec syntax in terms of nouns and verbs. `describe` is the noun and `it` is the verb, or action.
++ Review methods and method arguments before jumping into RSPEC.
++ Explicitly go over how RSPEC tests the code by calling the method.
++ Have students play with the code and call methods themselves after they get the tests to pass.
++ When students finished with walkthrough and Cool Ride, Bro Lab, challenge them to create their own tests. They seem to enjoy this.
++ Introduce the importance of refactoring - "make it work, make it right, make it fast" idea. Demo how you would refactor code to make it more 'right'.
