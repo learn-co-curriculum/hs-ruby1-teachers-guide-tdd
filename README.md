@@ -52,3 +52,5 @@ FROM TERMINAL
 + Have students play with the code and call methods themselves after they get the tests to pass.
 + When students finished with walkthrough and Cool Ride, Bro Lab, challenge them to create their own tests. They seem to enjoy this.
 + Introduce the importance of refactoring - "make it work, make it right, make it fast" idea. Demo how you would refactor code to make it more 'right'.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-tdd' data-visibility='hidden'>View this lesson on Learn.co</a>
